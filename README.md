@@ -12,7 +12,7 @@
   
   <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Stilyx/Readme-images/blob/main/html-logo-definitive.png" alt="html5" width="40" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/css-logo-definitive.png" alt="css3" width="40" height="50"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/js-logo-definitive.png" alt="javascript" width="40" height="50"/> </a> 
+  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/js-logo-definitive.png" alt="javascript" width="50" height="60"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/css-logo-definitive.png" alt="css3" width="40" height="50"/>
     
     
  <div align="center"> 
