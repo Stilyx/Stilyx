@@ -7,6 +7,8 @@
 
 <h3>
   Minhas linguagens:
+  </h3>
+  
   
   <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Stilyx/Readme-images/blob/main/html-logo-definitive.png" alt="html5" width="40" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -18,7 +20,7 @@
    
     
     
-   </h3>
+   
   <h3>
   Sobre Mim:
   </h3>
