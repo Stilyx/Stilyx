@@ -1,4 +1,5 @@
-Olá, meu nome é Daniel
+<h1 align="center">Olá, meu nome é Daniel</h1>
+<img href=""
 
 <!--
 **Stilyx/Stilyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
