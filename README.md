@@ -5,18 +5,23 @@
 
 
 
-<h3>
+<h3 align="center">
   Minhas linguagens:
   </h3>
   
   
-  <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Stilyx/Readme-images/blob/main/html-logo-definitive.png" alt="html5" width="40" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/css-logo-definitive.png" alt="css3" width="40" height="50"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/js-logo-definitive.png" alt="javascript" width="40" height="50"/> </a> 
     
     
+ <div align="center"> 
+ <img width="200px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stilyx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&locale=en&layout=compact" alt="daniel"/><img width="200px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-flower-right.png" />  
+  </div>
      
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stilyx&layout=compact&theme=radical)](https://github.com/stilyx/github-readme-stats)
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Stilyx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="daniel"/></p>
+  
+
    
     
     
