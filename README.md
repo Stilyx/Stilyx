@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é Daniel</h1>
-<div align="center">
-<img width="300px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-left-flower.png" /><img width="100px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/transparent.png" /><img width="300px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-right-flower.png" />
+<div align="">
+<img width="300px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-left-flower.png" /><img width="400px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/transparent.png" /><img width="300px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-right-flower.png" />
 </div>
 
 
