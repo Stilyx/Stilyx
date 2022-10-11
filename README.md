@@ -36,19 +36,19 @@
  - *Atualmente Estudando Fluência em Javascript (CJRM)* 
  
  - *Comecei os estudos sobre programação em novembro de 2021*
-  
+  #
   
  
   
 
-  <h2 align="center">
-    Contatos
-  </h2>
+  <h3>
+    Contatos:
+  </h3>
   <p>
     
-  - ☎️ Telefone: (21) 99016-7434
+  - ☎️ *Telefone: (21) 99016-7434*
     
-  - 📫 Email: dani.perfil.profissional@gmail.com
+  - 📫 *Email: dani.perfil.profissional@gmail.com*
     
 <p>
   
