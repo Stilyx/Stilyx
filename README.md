@@ -16,11 +16,11 @@
     
     
  <div align="center"> 
- <img width="200px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stilyx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&locale=en&layout=compact" alt="daniel"/><img width="200px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-right-flower.png" />  
+ <img width="200px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stilyx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&locale=en&layout=compact" alt="daniel"/><img width="200px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-right-flower.png" />  
   </div>
   
  <p align="center">    
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Stilyx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="daniel"/></p>
+&nbsp;<img height="220px" src="https://github-readme-stats.vercel.app/api?username=Stilyx&show_icons=true&theme=dark&title_color=c5c4c4&text_color=c5c4c4&cache_seconds=1800&locale=en" alt="daniel"/></p>
   
 
    
