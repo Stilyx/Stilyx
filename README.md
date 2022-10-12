@@ -46,7 +46,7 @@
   </h3>
   <p>
     
-  - ☎️ *Telefone: (21) 99016-7434*
+  
     
   - 📫 *Email: dani.perfil.profissional@gmail.com*
     
