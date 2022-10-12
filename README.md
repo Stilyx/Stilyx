@@ -42,7 +42,7 @@
   
 
   <h3>
-    Contatos:
+    Contato:
   </h3>
   <p>
     
