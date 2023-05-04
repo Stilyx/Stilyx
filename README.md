@@ -30,7 +30,7 @@
   
    -  *Me chamo Daniel Nunes Dos Santos e tenho 19 anos*  
 
- - *Atualmente Estudando Fluência em Javascript (CJRM)* 
+ - *Atualmente Me Aprofundando em React.js* 
  
  - *Comecei os estudos sobre programação em novembro de 2021*
   #
