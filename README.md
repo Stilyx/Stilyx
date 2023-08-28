@@ -49,10 +49,10 @@
   
   <div align="center">
 <img align="left" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-left-flower.png" /><a href="https://twitter.com/ChorusDan" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/twitter-icon.png" alt="ChorusDan_" height="40" width="40px" /></a>
-<a href="https://www.linkedin.com/in/daniel-nunes-963333239/" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/linkedin-icon.png" alt="daniel-linkedin-profile" height="40" width="40px" /></a>
+<a href="https://www.linkedin.com/in/stilyx/" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/linkedin-icon.png" alt="daniel-linkedin-profile" height="40" width="40px" /></a>
 <a href="#########" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/1217146_stackoverflow_icon.png" alt="daniel-stackoverflow-profile" height="40" width="40px" /></a>
 <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100009231604628" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/facebook-icon.png" alt="daniel-facebook-profile" height="40" width="40px" /></a>
-<a href="https://www.instagram.com/_moon.dani/" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/instagram-icon.png" alt="daniel-instagram-profile" height="40" width="40px" /></a>
+<a href="https://www.instagram.com/dhan.moon/" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/instagram-icon.png" alt="daniel-instagram-profile" height="40" width="40px" /></a>
 <a href="https://www.youtube.com/channel/UC_fpOX6KLDpRHScUEzzUe8A" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/youtube-icon.png" alt="daniel-youtube-profile" height="40" width="40px" /></a>
 <a href="https://discord.gg/VR7f5jQY9N" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/discord-definitive.png" alt="programação-curso-discord" height="40" width="40px" /></a><img align="right" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-right-flower.png" />
   </div>
