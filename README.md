@@ -29,7 +29,7 @@
 
  - *Atualmente Me Aprofundando em React.js* 
  
- - *Comecei os estudos sobre programação em novembro de 2021*
+ - *Comecei os estudos sobre programação no início de 2021*
   #
   
  
