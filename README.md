@@ -1,27 +1,24 @@
 
-<div align="center">
-<img width="300px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-left-flower.png" /><img width="150px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/transparent.png" /><img width="300px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-right-flower.png" />
+<div >
+<img align="left" width="400px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-left-flower.png" /><img width="150px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/transparent.png" /><img align="right" width="400px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-right-flower.png" />
 </div>
 
 
 
-<h3 align="center">
-  Minhas linguagens:
-  </h3>
-  
-  
-  <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Stilyx/Readme-images/blob/main/html-logo-definitive.png" alt="html5" width="40" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/js-logo-definitive.png" alt="javascript" width="50" height="60"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/Stilyx/Readme-images/blob/main/css-logo-definitive.png" alt="css3" width="40" height="50"/>
+
+ 
+
     
     
- <div align="center"> 
- <img width="200px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stilyx&layout=compact&langs_count=7&theme=dracula" alt="daniel"/><img width="200px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-right-flower.png" />  
+ <div > 
+ <img align="left" width="320px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img width="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stilyx&layout=compact&langs_count=7&theme=dracula" alt="daniel"/><img align="right" width="300px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-right-flower.png" />  
   </div>
+
+
   
  <p align="center">    
 &nbsp;<img height="220px" src="https://github-readme-stats.vercel.app/api?username=Stilyx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="daniel"/></p>
-    
+
     
    
   <h3>
@@ -51,13 +48,13 @@
   
   
   <div align="center">
-<img width="220px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-left-flower.png" /><a href="https://twitter.com/ChorusDan" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/twitter-icon.png" alt="ChorusDan_" height="40" width="40px" /></a>
+<img align="left" width="300px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-left-flower.png" /><a href="https://twitter.com/ChorusDan" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/twitter-icon.png" alt="ChorusDan_" height="40" width="40px" /></a>
 <a href="https://www.linkedin.com/in/daniel-nunes-963333239/" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/linkedin-icon.png" alt="daniel-linkedin-profile" height="40" width="40px" /></a>
 <a href="#########" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/1217146_stackoverflow_icon.png" alt="daniel-stackoverflow-profile" height="40" width="40px" /></a>
 <a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100009231604628" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/facebook-icon.png" alt="daniel-facebook-profile" height="40" width="40px" /></a>
 <a href="https://www.instagram.com/_moon.dani/" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/instagram-icon.png" alt="daniel-instagram-profile" height="40" width="40px" /></a>
 <a href="https://www.youtube.com/channel/UC_fpOX6KLDpRHScUEzzUe8A" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/youtube-icon.png" alt="daniel-youtube-profile" height="40" width="40px" /></a>
-<a href="https://discord.gg/VR7f5jQY9N" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/discord-definitive.png" alt="programação-curso-discord" height="40" width="40px" /></a><img width="220px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-right-flower.png" />
+<a href="https://discord.gg/VR7f5jQY9N" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/discord-definitive.png" alt="programação-curso-discord" height="40" width="40px" /></a><img align="right" width="300px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-right-flower.png" />
   </div>
 
 
