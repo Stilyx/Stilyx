@@ -1,6 +1,6 @@
 
 <div >
-<img align="left" width="400px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-left-flower.png" /><img width="150px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/transparent.png" /><img align="right" width="400px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-right-flower.png" />
+<img align="left" width="350px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-left-flower.png" /><img width="150px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/transparent.png" /><img align="right" width="350px" heigth="100px" src="https://github.com/Stilyx/Readme-images/blob/main/header-right-flower.png" />
 </div>
 
 
@@ -11,7 +11,7 @@
     
     
  <div > 
- <img align="left" width="320px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img width="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stilyx&layout=compact&langs_count=7&theme=dracula" alt="daniel"/><img align="right" width="300px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-right-flower.png" />  
+ <img align="left" width="300px" heigth="100" src="https://github.com/Stilyx/Readme-images/blob/main/main-left-flower.png"/> <img width="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stilyx&layout=compact&langs_count=7&theme=dracula" alt="daniel"/><img align="right" width="300px" src= "https://github.com/Stilyx/Readme-images/blob/main/main-right-flower.png" />  
   </div>
 
 
