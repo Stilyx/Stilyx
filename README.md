@@ -24,12 +24,18 @@
   <h3>
   Sobre Mim:
   </h3>
-  
-   -  *Me chamo Daniel Nunes Dos Santos e tenho 20 anos*  
 
- - *Atualmente Me Aprofundando em React.js* 
+ <div>
+  
+  - *Me chamo Daniel Nunes Dos Santos e tenho 20 anos*  
+
+  - *Atualmente Me Aprofundando em React.js* 
  
- - *Comecei os estudos sobre programação no início de 2021*
+  - *Comecei os estudos sobre programação no início de 2021*
+    
+  </div>
+
+
   #
   
  
@@ -38,13 +44,14 @@
   <h3>
     Contato:
   </h3>
-  <p>
-    
   
-    
+<div>
+ 
   - 📫 *Email: dani.perfil.profissional@gmail.com*
-    
-<p>
+  
+<div>
+
+#
   
   
   <div align="center">
