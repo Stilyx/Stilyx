@@ -25,7 +25,7 @@
   Sobre Mim:
   </h3>
   
-   -  *Me chamo Daniel Nunes Dos Santos e tenho 19 anos*  
+   -  *Me chamo Daniel Nunes Dos Santos e tenho 20 anos*  
 
  - *Atualmente Me Aprofundando em React.js* 
  
