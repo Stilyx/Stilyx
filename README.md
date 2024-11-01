@@ -56,10 +56,6 @@
   <div align="center">
 <img align="left" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-left-flower.png" /><a href="" target="_blank">
 <a href="" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/linkedin-icon.png" alt="daniel-linkedin-profile" height="40" width="40px" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/1217146_stackoverflow_icon.png" alt="daniel-stackoverflow-profile" height="40" width="40px" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/facebook-icon.png" alt="daniel-facebook-profile" height="40" width="40px" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/instagram-icon.png" alt="daniel-instagram-profile" height="40" width="40px" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/youtube-icon.png" alt="daniel-youtube-profile" height="40" width="40px" /></a>
 <a href="" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/discord-definitive.png" alt="programação-curso-discord" height="40" width="40px" /></a><img align="right" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-right-flower.png" />
   </div>
 
