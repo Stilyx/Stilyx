@@ -29,7 +29,7 @@
   - *Me chamo Daniel Nunes Dos Santos e tenho 21 anos*  
 
   - *Possuo mais de 1 ano de experiência profissional*
-  -  
+    
   - *Minha especialidade é React.Js* 
  
   - *Comecei os estudos sobre programação no início de 2021*
