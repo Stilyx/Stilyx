@@ -28,11 +28,11 @@
   
   - *Me chamo Daniel Nunes Dos Santos e tenho 21 anos*  
 
-  - *Possuo mais de 1 ano de experiência profissional*
+  - *Possuo mais de 4 anos na área, tanto fazendo projetos pessoais, free lancer e profissionalmente*
     
   - *Minha especialidade é React.Js* 
  
-  - *Comecei os estudos sobre programação no início de 2021*
+  - *Comecei os estudos sobre programação em 2020*
     
   </div>
 
@@ -48,7 +48,8 @@
   
 <div>
  
-  - 📫 *Email: dani.perfil.profissional@gmail.com*
+  - *Email: dani.perfil.profissional@gmail.com*
+  - *Linkedin: <a href="https://www.linkedin.com/in/stilyx/" target="blank">Meu Perfil no Linkedin</a>*
   
 <div>
 
@@ -57,8 +58,8 @@
   
   <div align="center">
 <img align="left" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-left-flower.png" /><a href="" target="_blank">
-<a href="" target="blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/linkedin-icon.png" alt="daniel-linkedin-profile" height="40" width="40px" /></a>
-<a href="" target="_blank"><img align="center" src="https://github.com/Stilyx/Readme-images/blob/main/discord-definitive.png" alt="programação-curso-discord" height="40" width="40px" /></a><img align="right" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-right-flower.png" />
+
+<img align="right" width="250px" heigth="200px" src="https://github.com/Stilyx/Readme-images/blob/main/footer-right-flower.png" />
   </div>
 
 
