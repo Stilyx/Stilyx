@@ -65,7 +65,7 @@
   
   - *Me chamo Daniel Nunes Dos Santos e tenho 21 anos;*  
 
-  - *Possuo mais de 4 anos na área, tanto fazendo projetos pessoais, free lancer e profissionalmente;*
+  - *Possuo mais de 5 anos na área, tanto fazendo projetos pessoais, free lancer e profissionalmente;*
     
   - *Minha especialidade é React.Js;* 
  
