@@ -68,7 +68,7 @@
 <div>
  
   - *Email: dani.perfil.profissional@gmail.com*
-  - *Linkedin: <a href="https://www.linkedin.com/in/stilyx/" target="blank">Meu Perfil no Linkedin</a>*
+  - *Linkedin: <a href="https://www.linkedin.com/in/daniel-nunes2003/" target="_blank">Meu Perfil no Linkedin</a>*
   
 
 <!--
